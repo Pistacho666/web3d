@@ -18,8 +18,6 @@
         <a-asset-item id="hatModel" src="luffy_hat/scene.gltf"></a-asset-item>
         <!-- Lentes (gafas) -->
         <a-asset-item id="glassesModel" src="doflamingo_glasses/scene.gltf"></a-asset-item>
-        <!-- Fruta (por ejemplo, una manzana) -->
-        <a-asset-item id="fruitModel" src="devil_fruit/scene.gltf"></a-asset-item>
       </a-assets>
 
       <a-camera active="false" position="0 0 0"></a-camera>
@@ -35,7 +33,7 @@
       </a-entity>
 
       <!-- Gafas en la cara completa (anchor 0 es ideal para gafas) -->
-      <a-entity mindar-face-target="anchorIndex: 0">
+      <a-entity mindar-face-target="anchorIndex: 195">
         <a-gltf-model
           rotation="0 180 0"
           position="0 0.05 -0.15"
@@ -43,17 +41,6 @@
           src="#glassesModel"
         ></a-gltf-model>
       </a-entity>
-
-      <!-- Fruta en la mejilla derecha (anchorIndex: 4) -->
-      <a-entity mindar-face-target="anchorIndex: 4">
-        <a-gltf-model
-          rotation="0 180 0"
-          position="0 0 0"
-          scale="0.15 0.15 0.15"
-          src="#fruitModel"
-        ></a-gltf-model>
-      </a-entity>
-
     </a-scene>
   </body>
 </html>
