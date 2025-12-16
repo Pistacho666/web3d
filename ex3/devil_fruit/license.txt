@@ -1,0 +1,11 @@
+Model Information:
+* title:	Devil Fruit
+* source:	https://sketchfab.com/3d-models/devil-fruit-2659fd281e084c65b9c94025b52a175d
+* author:	doomgirlface (https://sketchfab.com/doomgirlface)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Devil Fruit" (https://sketchfab.com/3d-models/devil-fruit-2659fd281e084c65b9c94025b52a175d) by doomgirlface (https://sketchfab.com/doomgirlface) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
